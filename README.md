@@ -9,4 +9,4 @@ This project showcases an interactive Excel dashboard designed to analyze coffee
 - Interactive filters for date, roast type, size, and loyalty card status.
 
 ## How to Use:
-Download the [`CoffeeSalesProject.xlsx`](https://github.com/RishabhInsights/Excel_Project/blob/main/CoffeeOrdersProject.xlsx) file and explore the dashboard using Excel.
+Download the [`CoffeeSalesProject.xlsx`](CoffeeOrdersProject.xlsx) file and explore the dashboard using Excel.
