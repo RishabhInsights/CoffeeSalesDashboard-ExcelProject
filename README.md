@@ -10,4 +10,4 @@ This project showcases an interactive Excel dashboard designed to analyze coffee
 
 ## How to Use:
 Download the [`CoffeeSalesProject.xlsx`](CoffeeOrdersProject.xlsx) file and explore the dashboard using Excel.
-Here is the screenshot of the dashboard: [Dashboard Screenshot](https://github.com/RishabhInsights/CoffeeSalesDashboard-ExcelProject/blob/main/CoffeeSalesAnalysis/CoffeeSalesDashboard.png)
+Here is the screenshot of the dashboard: [Dashboard Screenshot](CoffeeSalesAnalysis/CoffeeSalesDashboard.png)
